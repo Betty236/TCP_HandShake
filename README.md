@@ -60,7 +60,3 @@ This project is ideal for:
 ## 📝 License
 
 This project is released for educational purposes. You are free to use, modify, and distribute it.
-
----
-
-Created with ❤️ using Python & Tkinter.
